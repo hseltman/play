@@ -11,3 +11,6 @@ cat("mean(x) =", formatC(mean(x), digits=2, format="f"), "\n")
 # New features
 y = sample(10:20, N)
 print(sort(y))
+
+# Ratio
+cat("mean(y)/mean(x) =", mean(y)/mean(x), "\n")
