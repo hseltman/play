@@ -1,4 +1,5 @@
 # print random numbers
+# H. Seltman, June 26, 2018
 
 N = 10
 x=rnorm(N)
